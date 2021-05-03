@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/loongwrt/loongwrt.git
+  REPO_URL: https://github.com/LY-gif/loongwrt.git
   REPO_BRANCH: loongson32-3.18
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
